@@ -1,4 +1,4 @@
-Prestige Institute of Management & Research, Dewas – Website
+**Prestige Institute of Management & Research, Dewas – Website**
 
 A responsive frontend website developed for Prestige Institute of Management and Research, Dewas, built using HTML5 and CSS3.
 The project focuses on clean UI, structured layout, and accessibility for students and visitors.
@@ -32,8 +32,7 @@ Contact Information
 Footer
 
 🔹 Live Demo
-
- https://USERNAME.github.io/prestige-dewas-website/
+ https://saniyahussain132007-sys.github.io/prestige-dewas-website/
 
 🔹 Technologies Used
 
